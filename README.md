@@ -16,7 +16,6 @@ This project is a pixel-perfect implementation of the given Figma design for the
 - **Next.js 14**
 - **React.js**
 - **Tailwind CSS**
-- **TypeScript (optional if used)**
 - **Vercel (Deployment)**
 
 ---
@@ -62,7 +61,3 @@ This project is a pixel-perfect implementation of the given Figma design for the
 ---
 
 
-
-
-## 📅 Deadline
-Submitted within the 5-day assignment window.
